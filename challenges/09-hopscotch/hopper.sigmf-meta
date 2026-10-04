@@ -1,0 +1,16 @@
+{
+  "global": {
+    "core:datatype": "ci16_le",
+    "core:sample_rate": 200000,
+    "core:version": "1.0.0",
+    "core:description": "RF Analysis Track 09 - 200 kHz of spectrum, 16 channels on a 12.5 kHz raster",
+    "core:num_channels": 1,
+    "core:license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "captures": [
+    {
+      "core:sample_start": 0
+    }
+  ],
+  "annotations": []
+}

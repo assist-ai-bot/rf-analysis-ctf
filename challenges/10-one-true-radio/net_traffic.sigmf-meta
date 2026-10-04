@@ -1,0 +1,16 @@
+{
+  "global": {
+    "core:datatype": "ci16_le",
+    "core:sample_rate": 100000,
+    "core:version": "1.0.0",
+    "core:description": "RF Analysis Track 10 - four channels at -37.5, -12.5, +12.5, +37.5 kHz",
+    "core:num_channels": 1,
+    "core:license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "captures": [
+    {
+      "core:sample_start": 0
+    }
+  ],
+  "annotations": []
+}
